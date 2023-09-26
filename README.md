@@ -1,1 +1,1 @@
-# Peak stress detection project by Francis
+# Pig stress detection project by Francis
